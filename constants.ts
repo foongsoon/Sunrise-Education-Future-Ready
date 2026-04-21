@@ -79,7 +79,7 @@ export const CONTACT_DETAILS = {
   website: "www.sun.edu.my",
   address: "No. 25-2nd Floor, Jalan Mahogani 5/Ks7, 41200 Klang, Selangor, Malaysia",
   facebook: "https://www.facebook.com/SunriseResourceCentre",
-  googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=No.+25-2nd+Floor,+Jalan+Mahogani+5/Ks7,+41200+Klang,+Selangor,+Malaysia"
+  googleMapsUrl: "https://www.google.com/maps?q=2.996279,101.445392"
 };
 
 export const FEATURES = [

@@ -84,7 +84,7 @@ export const ContactSection: React.FC<ContactProps> = ({ text, lang }) => {
           {/* Map Column (Placeholder/Embed) */}
           <div className="h-full min-h-[300px] bg-white rounded-2xl shadow-xl p-2 border border-gray-200">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.032606558661!2d101.4402633!3d3.0061996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc530000000001%3A0x0!2zNsKwMDAnMjIuMyJOIDEwMcKwMjYnMjUuMCJF!5e0!3m2!1sen!2smy!4v1600000000000!5m2!1sen!2smy" 
+              src="https://maps.google.com/maps?q=2.996279,101.445392&hl=en&z=16&output=embed" 
               width="100%" 
               height="100%" 
               style={{border:0, borderRadius: '1rem'}} 
